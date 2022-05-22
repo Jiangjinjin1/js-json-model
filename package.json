@@ -1,6 +1,6 @@
 {
-  "name": "jsonmodel-js",
-  "version": "0.6.0",
+  "name": "@jinjinjiang/js-json-model",
+  "version": "0.1.0",
   "description": "JSON Model for javascript",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -22,10 +22,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wuxushun/jsonmodel-js.git"
+    "url": "git@github.com:Jiangjinjin1/js-json-model.git"
   },
-  "author": "wuxushun@icloud.com",
+  "author": "1837264450@qq.com",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jiangjinjin1/js-json-model/issues"
+  },
+  "homepage": "https://github.com/Jiangjinjin1/js-json-model#readme",
   "dependencies": {
     "lodash": "^4.17.21"
   },
